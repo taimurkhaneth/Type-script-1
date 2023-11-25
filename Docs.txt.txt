@@ -1,0 +1,8 @@
+The program uses console.table and inquirer to interact with the user.
+It collects six inputs from the user.
+These inputs are added together to calculate the total bill.
+It checks if the total bill is greater than 1200 rupees.
+If the total bill is greater than 1200 rupees, the customer gets a 20% discount; otherwise, they get their bill as is.
+The customer is then prompted to choose between paying with cash or card.
+If they choose cash, they enter the amount and receive change.
+If they choose card, they enter their card PIN and receive the bill.
